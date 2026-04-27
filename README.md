@@ -19,11 +19,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-Logeshwar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arjyo851&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Logeshwar&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjyo851&theme=tokyonight" />
 </p>
 
 ---
